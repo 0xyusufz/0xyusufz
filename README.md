@@ -238,18 +238,4 @@ I believe the best software isn't the one with the most features—it's the one 
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-orange?style=for-the-badge&logo=cloudflare)
-
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-red?style=for-the-badge&logo=n8n)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![Airtable](https://img.shields.io/badge/Airtable-Database-blue?style=for-the-badge&logo=airtable)
-
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-orange?style=for-the-badge&logo=cloudflare) ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-red?style=for-the-badge&logo=n8n) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![Airtable](https://img.shields.io/badge/Airtable-Database-blue?style=for-the-badge&logo=airtable) ![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
