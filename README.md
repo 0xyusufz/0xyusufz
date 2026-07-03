@@ -217,3 +217,7 @@ https://github.com/0xyusufz
 I enjoy building software that reduces repetitive work.
 
 I believe the best software isn't the one with the most features—it's the one that saves people the most time.
+
+## 📊 GitHub Stats
+
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xyusufz&show_icons=true&theme=github_dark&hide_border=true)
